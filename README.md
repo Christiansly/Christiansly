@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Abiode</h1>
 <h3 align="center">A passionate software developer</h3>
 <p> I'm a web developer who enjoys creating next-generation digital solutions. I've been creating unique web solutions for the past three years using technologies like JavaScript (React JS, Gatsby, Express, and Node JS), SQL, MongoDB, GraphQL, and Cloud Services. I presently work as an automation software engineer for Huawei, where I oversee a team of engineers who develop and maintain apps for automating processes and improving work delivery.</p>
-- 🔭 I’m currently working on [Automated Clouds](@Huawei Technologies)
+
 
 - 💬 Ask me about **React, React-native, Nodejs, Django**
 
